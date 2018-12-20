@@ -5,8 +5,7 @@ import time
 import random
 import sys
 
-from database import notes, standard_chords, seventh_chords, st_formula
-
+from database import *
 
 print("\v\v\t"+time.strftime("%d.%m.%Y\t - \t %H:%M"))
 print("\n\n  Ultimate Challenger Guitar Practice Tool. \n")
@@ -28,7 +27,7 @@ def main_menu():
             
         # --- backing tracks ----
         
-        #to be implemented
+        #to be implemented ..
         
         # --- not yet implemented ---
 
